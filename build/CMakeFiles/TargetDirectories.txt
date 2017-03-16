@@ -1,0 +1,2 @@
+/home/danny/stnbhwd/build/CMakeFiles/custn.dir
+/home/danny/stnbhwd/build/CMakeFiles/stn.dir

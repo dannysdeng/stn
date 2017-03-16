@@ -1,0 +1,8 @@
+/home/danny/torch/install/lib/luarocks/rocks/stnbhwd/scm-1/lib/libstn.so
+/home/danny/torch/install/lib/luarocks/rocks/stnbhwd/scm-1/lua/stn/AffineTransformMatrixGenerator.lua
+/home/danny/torch/install/lib/luarocks/rocks/stnbhwd/scm-1/lua/stn/test.lua
+/home/danny/torch/install/lib/luarocks/rocks/stnbhwd/scm-1/lua/stn/BilinearSamplerBHWD.lua
+/home/danny/torch/install/lib/luarocks/rocks/stnbhwd/scm-1/lua/stn/init.lua
+/home/danny/torch/install/lib/luarocks/rocks/stnbhwd/scm-1/lua/stn/AffineGridGeneratorBHWD.lua
+/home/danny/torch/install/lib/luarocks/rocks/stnbhwd/scm-1/lua/stn/AffineTransformMatrixGeneratorDS.lua
+/home/danny/torch/install/lib/luarocks/rocks/stnbhwd/scm-1/lib/libcustn.so
